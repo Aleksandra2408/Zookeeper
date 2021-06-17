@@ -1,4 +1,8 @@
 # Zookeeper
+
+https://user-images.githubusercontent.com/56825295/122482640-9df71280-cfd9-11eb-9572-fb4328a5dc1b.mp4
+
+
 This project is aimed at our beginners. It helps you understand some syntax basics and learn how to work with variables, data storage types such as lists, and while loops.
 
 ## First step: 'Rush into print'
